@@ -79,26 +79,15 @@
   ],
   "burgers": [
     {
-      "nome": "Filipi Kikuchi",
-      "carne": "Alcatra",
+      "nome": "Patrick",
+      "carne": "Picanha",
       "pao": "3 Queijos",
       "opcionais": [
-        "Bacon",
-        "Pepino"
+        "Cheddar",
+        "Bacon"
       ],
-      "status": "Solicitado",
-      "id": 1
-    },
-    {
-      "nome": "Bruno Meira",
-      "carne": "Veggie burger",
-      "pao": "Integral",
-      "opcionais": [
-        "Salame",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 2
+      "status": "Em produção",
+      "id": 3
     }
   ]
 }
